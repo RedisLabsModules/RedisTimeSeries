@@ -118,6 +118,7 @@ _SOURCES=\
 	resultset.c \
 	tsdb.c \
 	series_iterator.c
+	gears_integration.c
 
 _TEST_SOURCES=\
 	unittests.c \
